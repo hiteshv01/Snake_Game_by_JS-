@@ -1,2 +1,2 @@
 # Snake_Game_by_JS-
-I made this game using JS
+I made this game using  HTML and JS
